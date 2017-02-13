@@ -1,0 +1,5 @@
+#fajarbardan
+About week00
+Saya belajar mengenai github, dimana github akan menjadi salah satu website yang akan membantu saya untuk mengerjakan tugas-tugas dari mata kuliah Sistem Operasi
+Selain itu, saya juga belajar mengenai PuTTY dan cara login ke Badak Server
+
