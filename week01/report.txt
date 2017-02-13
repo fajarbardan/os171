@@ -1,0 +1,4 @@
+About week01 task
+Saya belajar lebih lanjut mengenai mata kuliah Sistem Operasi
+Saya belajar tentang membuat file,mengedit,menghapus,hingga melakukan push dan pull file tersebut
+
