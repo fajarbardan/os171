@@ -1,0 +1,4 @@
+Week 04
+#LR watching : Introduction to pointers in C (https://www.youtube.com/watch?v=h-HBipu_1P0)
+#PS : doing lab week04
+#DS : discuss OS lab with uncle G, Ammar Shidqi, Faiz Refano, Nabilah Zhafira, and Abdalla Chair
