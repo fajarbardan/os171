@@ -1,0 +1,4 @@
+Week 06
+w06-170411-13-LR-About: Watching: using fork() in C, From: Youtube - https://www.youtube.com/watch?v=2neFl8x9Ahg
+w06-170411-13-PS-About: doing lab week06
+w06-170411-13-DS-About: dicuss OS lab with uncle G, Raditya Nurfadillah and Alvin Abyan
