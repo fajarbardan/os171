@@ -1,0 +1,7 @@
+Week08's log
+
+w08-170428-15-LR-About: Watching: Priority Scheduling Algorithm (https://www.youtube.com/watch?v=rc0Bx752m-Q)
+w08-170428-16-PS-About: doing lab week08
+w08-170428-16-DS-About: discuss OS lab with uncle G, Ammar Shidqi, Alvin Abyan, Raditya Nurfadillah, and Ichsandy Riski
+
+
