@@ -1,0 +1,4 @@
+w09-170519-21-LR-About: Watching: Video about Kernel (from week04) (https://youtu.be/mycVSMyShk8)
+w09-170519-22-PS-About: doing week09 task
+w09-170519-22-DS-About: discuss task week09 with uncle G, Ammar Shidqi, Alvin Abyan, and Reinhard Hotma
+
